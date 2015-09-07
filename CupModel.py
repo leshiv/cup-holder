@@ -1,8 +1,9 @@
 from datetime import datetime
 
+
 class Question:
     # source + "_" + id
-    question_id =""
+    question_id = ""
     question_title = ""
     question_content = ""
     link = ""
