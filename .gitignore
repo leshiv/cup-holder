@@ -55,3 +55,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# gedit
+*.py~
+*.gitignore~
+
+#sqlite3
+*.db
+*.db-journal
